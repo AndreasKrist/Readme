@@ -14,25 +14,9 @@ Welcome to my GitHub! I'm a **Machine Learning enthusiast** with a touch of **fr
 - HTML, CSS, JavaScript  
 - React.js, Bootstrap  
 
-### ⚙️ Other Technologies  
-- Git & GitHub for version control  
-- Jupyter Notebook, Google Colab  
-
----
-
 ## 🌱 What I'm Learning  
 - **Advanced Deep Learning Architectures**  
 - **Integrating ML models with web interfaces**  
-
----
-
-## 💼 Projects  
-Here are some of the projects I've been working on:  
-- **[Project Name 1]**: A machine learning model for [describe purpose briefly].  
-- **[Project Name 2]**: A React-based front-end integrated with [specific feature].  
-- **[Project Name 3]**: [Short description about the project].  
-
-Check out my repositories for more cool stuff! 🚀  
 
 ---
 
@@ -43,4 +27,3 @@ Check out my repositories for more cool stuff! 🚀
 
 ---
 
-Feel free to modify the template with your personal details, specific projects, or any other information you'd like to showcase!
